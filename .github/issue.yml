@@ -1,0 +1,6 @@
+Issue:
+  - title
+  - person
+  - issue
+  - is_open
+  - is_closed
